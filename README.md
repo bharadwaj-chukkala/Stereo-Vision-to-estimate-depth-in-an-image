@@ -47,7 +47,7 @@ git clone https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-
 |                                    | Curule                                            | Octagon                                       | Pendulum                                      |
 | ---------------------------------- | ------------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
 | Epipolar geometry<br />(Rectified) | ![1671441533984](https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-in-an-image/blob/master/results/epi_polar_lines_1.png)     | ![1671441808456](https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-in-an-image/blob/master/results/epi_polar_lines_2.png) | ![1671441813305](https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-in-an-image/blob/master/results/epi_polar_lines_3.png) |
-| Disparity<br />(Heat)              | ![1671441938738](results\disparity_image_heat1.png) | ![disp2](results\disparity_image_heat2.png)     | ![disp3](results\disparity_image_heat3.png)     |
+| Disparity<br />(Heat)              | ![1671441938738](https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-in-an-image/blob/master/results\disparity_image_heat1.png) | ![disp2](results\disparity_image_heat2.png)     | ![disp3](results\disparity_image_heat3.png)     |
 | Depth Estimation                   |       ![depth1](results\depth_image_heat1.png)                                            |      ![depth2](results\depth_image_heat2.png)                                         |           ![depth3](results\depth_image_heat3.png)                                    |
 
 ## Contributions
