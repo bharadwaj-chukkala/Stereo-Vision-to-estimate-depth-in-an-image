@@ -51,18 +51,14 @@ git clone https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-
 | Depth Estimation                   | ![depth1](https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-in-an-image/blob/master/results/depth_image_heat1.png)            | ![depth2](https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-in-an-image/blob/master/results/depth_image_heat2.png)        | ![depth3](https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-in-an-image/blob/master/results/depth_image_heat3.png)        |
 
 ## License
-
-Include the license for the project, such as MIT or Apache License 2.0.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-* **Bharadwaj Chukkala**<br>
+
+**Bharadwaj Chukkala**<br>
 UID: 118341705<br>
 Bharadwaj Chukkala is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Machine Learning, Perception and Path Planning.<br>
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bchukkal@umd.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharadwaj-chukkala/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharadwaj-chukkala)
 
-
-```
-
-```
