@@ -53,6 +53,9 @@ git clone https://github.com/bharadwaj-chukkala/Stereo-Vision-to-estimate-depth-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## References
+- [3D DISTANCE MEASUREMENT ACCURACY ON LOW-COST STEREOCAMERA, M.F. Abu Hassan, A. Hussain, M.H. Md Saad, K. Win, Sci.Int.(Lahore),29(3),599-605,2017 ISSN: 1013-5316; CODEN: SINTE 8](https://www.researchgate.net/publication/318452089_3D_DISTANCE_MEASUREMENT_ACCURACY_ON_LOW-COST_STEREO_CAMERA/figures?lo=1)
+
 ## Contact
 
 **Bharadwaj Chukkala**<br>
